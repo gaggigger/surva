@@ -1,0 +1,59 @@
+
+<!-- Ring Template -->
+
+<div class="container">
+
+  <div class="ring">
+
+    <div class="ring-header">
+      <h1 ng-bind-html="tvara.current.bodyTitle || tvara.current.title"></h1>
+      <img class="ring-image"
+           ng-src="{{tvara.path.media}}{{tvara.current.media[0].url}}"
+           ng-alt="{{tvara.current.bodyTitle}}" />
+    </div>
+
+    <div class="ring-content">
+      <div class="caption" ng-bind-html="tvara.current.caption"></div>
+      <div class="main" ng-bind-html="tvara.current.body"></div>
+    </div>
+
+    <div class="ring-prices">
+      <h4 ng-bind-html="tvara.current.bodyTitle || tvara.current.title"></h4>
+      <table>
+        <tr ng-repeat="price in tvara.nodes[1].nodes[1].prices">
+          <td>{{price.option}}</td>
+          <td class="er-price">{{price.cost | currency:"USD$"}}</td>
+        </tr>
+      </table>
+      <a class="er-add-to-cart" ng-href="{{tvara.current.cartLink}}">Add to Cart</a>
+    </div>
+
+    <div class="ring-aside">
+      <h3>You might also like</h3>
+      <div class="row">
+        <div class="collection-item col-xs-6 col-sm-6"
+             ng-repeat="suggested in tvara.nodes[1].nodes | limitTo:4">
+          <a ng-href="{{suggested.url}}">
+            <img ng-src="{{tvara.path.media}}{{suggested.media[0].url}}" />
+            <span ng-bind-html="suggested.linkTitle || suggested.title"></span>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="ring-content">
+      <h3>A word from our satisfied customers</h3>
+      <div class="row">
+        <div class="testimonial"
+             ng-repeat="testimonial in tvara.current.testimonials">
+          <div class="testimonial-content">
+            <div class="message" ng-bind-html="testimonial.message"></div>
+            <div class="author" ng-bind-html="testimonial.author"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>

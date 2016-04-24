@@ -1,0 +1,44 @@
+<form>
+
+  <ng-include src="'admin/partials/fields.html'"></ng-include>
+
+  <div ng-repeat="tm in tvara.current.testimonials">
+
+    <hr>
+
+    <dl>
+      <dt><label>Message</label></dt>
+      <dd><textarea rows="4" ng-model="tm.message"></textarea></dd>
+    </dl>
+
+    <dl>
+      <dt><label>Author</label></dt>
+      <dd><input ng-model="tm.author"></dd>
+    </dl>
+
+    <dl>
+      <dt><label></label></dt>
+      <dd>
+        <button
+          class="btn btn-sm btn-danger"
+          ng-click="vm.remove(tvara.current.testimonials, tm)">
+          Remove
+        </button>
+      </dd>
+    </dl>
+
+  </div>
+
+  <hr>
+  <dl>
+    <dt><label>Testimonials</label></dt>
+    <dd>
+      <button
+        class="btn btn-lg btn-success"
+        ng-click="vm.addTestimonial(tvara.current)">
+        Add Testimonial
+      </button>
+    </dd>
+  </dl>
+
+</form>

@@ -1,0 +1,44 @@
+$brand-red: maroon;
+
+body {
+  background-color: lighten(black, 75%);
+  background-image: url(media/footer-bg.gif);
+  background-repeat: no-repeat;
+  background-position: left 105%;
+  background-size: 40%;
+  background-attachment: fixed;
+}
+
+.er-main-body {
+  background-color: #fff;
+}
+
+.er-bg-eagle {
+  background-image: url(media/eagle-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: 50% 80%;
+}
+
+.container {
+  @extend .container;
+}
+
+a {
+  @include transition(all 0.5s ease);
+  text-decoration: none !important;
+}
+
+h3 {
+  text-transform: uppercase;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: rgb(153,153,153);
+  font-weight: normal;
+  font-size: 1.33em;
+  line-height: 1.6;
+}
+
+.er-missing {
+  min-height: 640px;
+}

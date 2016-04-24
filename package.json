@@ -1,0 +1,35 @@
+{
+  "name": "surva",
+  "version": "0.0.0",
+  "description": "A database-less, JSON file-based CMS wth an administration panel and simple token-based authentication. Built with AngularJS and Slim PHP CMS.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh Rao (ganeshnrao@me.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^1.8.0",
+    "gulp-clean-css": "^2.0.4",
+    "gulp-concat": "^2.6.0",
+    "gulp-htmlmin": "^1.3.0",
+    "gulp-if": "^2.0.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.0.8",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.1.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshnrao/surva.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ganeshnrao/surva/issues"
+  },
+  "homepage": "https://github.com/ganeshnrao/surva#readme"
+}

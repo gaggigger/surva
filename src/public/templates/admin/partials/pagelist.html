@@ -1,0 +1,16 @@
+<ul>
+    <li ng-repeat="nav in tvara.site.nodes track by $index">
+        <a 
+            ng-href="{{path.prefix}}{{nav.url}}"
+            ng-bind-html="nav.title">
+        </a>
+        <ul ng-if="nav.nodes">
+            <li ng-repeat="subnav in nav.nodes track by $index">
+                <a
+                    ng-href="{{path.prefix}}{{subnav.url}}" 
+                    ng-bind-html="subnav.title">
+                </a>
+            </li>
+        </ul>
+    </li>
+</ul>

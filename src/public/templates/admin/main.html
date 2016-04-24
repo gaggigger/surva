@@ -1,0 +1,21 @@
+<!-- Top Admin Bar -->
+<ng-include
+    src="'admin/partials/adminbar.html'">
+</ng-include>
+
+<!-- If Edit Mode and Logged In -->
+<div ng-if="tvara.edit && tvara.user" class="admin-body">
+    
+    <div class="admin-pagelist">
+        <ng-include
+            src="'admin/partials/pagelist.html'">
+        </ng-include>
+    </div>
+
+    <div class="admin-editor" ng-controller="Editor as vm">
+        <ng-include
+            src="tvara.current.editorTemplate">
+        </ng-include>
+    </div>
+
+</div>

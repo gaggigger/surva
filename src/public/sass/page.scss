@@ -1,0 +1,30 @@
+.page-section {
+  margin-bottom: 4em;
+}
+
+.image-section {
+  margin-top: 3em;
+  margin-bottom: 4em;
+  .er-image {
+    margin-bottom: 2em;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+.contact-section {
+  margin-bottom: 4em;
+  h4 {
+    font-size: 1em;
+    text-transform: uppercase;
+    margin-top: 2em;
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.caption {
+  font-size: 1.4em;
+}

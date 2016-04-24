@@ -1,0 +1,78 @@
+.admin-panel {
+  @extend .container-fluid;
+  a {
+    background: #fff;
+    &:hover {
+      background: red;
+    }
+  }
+}
+
+.admin-body {
+  @extend .container;
+  margin-top: 50px;
+  background: #fff;
+}
+
+.admin-pagelist {
+  @extend .col-sm-2;
+  @extend .col-md-3;
+  @extend .col-lg-4;
+  background: #eee;
+  padding: 2em 0;
+
+  nav {
+
+    a {
+      display: block;
+      padding: 2px 20px;
+      &:hover, &.active {
+        background: #ddd;
+      }
+    }
+
+    .sub-list a {
+      padding-left: 40px;
+    }
+
+  }
+
+}
+
+.admin-editor {
+  @extend .col-sm-10;
+  @extend .col-md-9;
+  @extend .col-lg-8;
+
+  margin-top: 5em;
+  margin-bottom: 5em;
+
+  form {
+    @extend .form-horizontal;
+  }
+
+  dl {
+    @extend .form-group;
+  }
+
+  dt {
+    @extend .col-sm-3;
+    @extend .control-label;
+  }
+
+  dd {
+    @extend .col-sm-9;
+  }
+
+  input, textarea {
+    @extend .form-control;
+  }
+
+}
+
+
+.admin-fira {
+  & * {
+    font-family: 'Fira Mono';
+  }
+}

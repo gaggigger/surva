@@ -1,0 +1,46 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+
+      <a class="er-goto-top" ng-click="vm.gotoTop()">Return to top of page <span class="er-icon-up"></span></a>
+
+      <div class="col-sm-3 col-sm-offset-3">
+        <h4>Navigation</h4>
+        <ng-include src="'partials/menu.html'"></ng-include>
+      </div>
+
+      <div class="col-sm-3">
+        <h4>Contact</h4>
+
+        <p ng-repeat="phone in tvara.site.contact.phones">
+          <abbr title="Phone">p</abbr> <a ng-href="tel:{{phone}}">{{phone}}</a>
+        </p>
+
+        <p ng-repeat="fax in tvara.site.contact.fax">
+          <abbr title="Fax">f</abbr> <a ng-href="tel:{{fax}}">{{fax}}</a>
+        </p>
+
+        <p ng-repeat="email in tvara.site.contact.emails">
+          <a ng-href="mailto:{{email}}">{{email}}</a>
+        </p>
+
+      </div>
+
+      <div class="col-sm-3">
+        <h4>Social</h4>
+        <ul class="er-social">
+          <li ng-repeat="(key, social) in tvara.site.social">
+            <a ng-style="{
+                 'background-image' : 'url(' + tvara.path.media + key + '.svg)'
+               }"
+               ng-href="{{key == 'email' ? 'mailto:' : ''}}{{social}}"
+               target="_blank">
+              {{key}}
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div>

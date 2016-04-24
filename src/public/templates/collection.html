@@ -1,0 +1,19 @@
+<div class="container">
+
+  <h3 ng-bind-html="tvara.current.bodyTitle || tvara.current.title"></h3>
+
+  <div class="main er-two-column">
+    <div ng-bind-html="tvara.current.caption"></div>
+    <div ng-bind-html="tvara.current.body"></div>
+  </div>
+
+  <div class="row">
+    <div class="collection-item col-xs-6 col-sm-4 col-md-3"
+         ng-repeat="ring in tvara.current.nodes">
+      <a ng-href="{{ring.url}}">
+        <img ng-src="{{tvara.path.media}}{{ring.media[0].url}}" />
+        <span ng-bind-html="ring.linkTitle || ring.title"></span>
+      </a>
+    </div>
+  </div>
+</div>

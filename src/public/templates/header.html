@@ -1,0 +1,23 @@
+<div class="header">
+
+  <div class="er-bg-left"
+       ng-style="{
+         'background-image' :
+            'url(' + tvara.path.media + tvara.current.headerbg.left + ')'
+       }">
+    <div class="er-bg-right"
+         ng-style="{
+            'background-image' :
+              'url(' + tvara.path.media + tvara.current.headerbg.right + ')'
+          }">
+
+      <div class="er-logo-shadow">
+        <div class="container">
+          <a class="er-logo" href="/"><h1 ng-bind-html="tvara.title"></h1></a>
+        </div>
+      </div>
+
+      <ng-include src="'partials/menu.html'"></ng-include>
+    </div>
+  </div>
+</div>

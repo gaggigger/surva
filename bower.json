@@ -1,0 +1,22 @@
+{
+  "name": "surva",
+  "description": "JSON file-based, AngularJS, Slim PHP CMS",
+  "main": "index.js",
+  "authors": [
+    "Ganesh Rao (ganeshnrao@me.com)"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "reset-css": "^2.0.2011012603"
+  }
+}

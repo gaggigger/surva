@@ -1,0 +1,10 @@
+<nav class="er-navbar">
+  <ul>
+    <li ng-repeat="node in tvara.site.nodes">
+      <a ng-href="{{node.url}}"
+         ng-class="{'active': node == tvara.current}"
+         ng-bind-html="node.linkTitle || node.title"></a>
+    </li>
+    <li class="er-cart"><a href="cart">Cart</a></li>
+  </ul>
+</nav>

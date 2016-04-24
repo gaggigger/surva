@@ -1,0 +1,66 @@
+<div class="admin-editor">
+
+  <form>
+
+    <dl ng-repeat="(key,phone) in tvara.contact.phones track by $index">
+      <dt><label>Phone {{$index + 1}}</label></dt>
+      <dd>
+        <input
+         ng-model="tvara.contact.phones[key]"
+         placeholder="(123) 456-7890)">
+        <button ng-click="vm.remove(tvara.contact.phones, phone)">
+          Remove
+        </button>
+      </dd>
+    </dl>
+    <dl>
+      <dt></dt>
+      <dd>
+        <button ng-click="vm.add(tvara.contact.phones, '')">Add Phone</button>
+      </dd>
+    </dl>
+
+
+    <dl ng-repeat="(key, fax) in tvara.contact.fax track by $index">
+      <dt><label>Fax {{$index + 1}}</label></dt>
+      <dd>
+        <input
+         ng-model="tvara.contact.fax[key]"
+         placeholder="(123) 456-7890)">
+        <button ng-click="vm.remove(tvara.contact.fax, fax)">
+          Remove
+        </button>
+      </dd>
+    </dl>
+    <dl>
+      <dt></dt>
+      <dd>
+        <button ng-click="vm.add(tvara.contact.fax, '')">Add Fax</button>
+      </dd>
+    </dl>
+
+
+    <dl ng-repeat="(key, email) in tvara.contact.emails track by $index">
+      <dt><label>Email {{$index + 1}}</label></dt>
+      <dd>
+        <input
+         ng-model="tvara.contact.emails[key]"
+         placeholder="hello@tvara.com">
+        <button ng-click="vm.remove(tvara.contact.emails, email)">
+          Remove
+        </button>
+      </dd>
+    </dl>
+    <dl>
+      <dt></dt>
+      <dd>
+        <button ng-click="vm.add(tvara.contact.emails, '')">Add Email</button>
+      </dd>
+    </dl>
+
+    <ng-include src="'admin/partials/fields.html'"></ng-include>
+
+  </form>
+
+
+</div>

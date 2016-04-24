@@ -1,0 +1,20 @@
+<hr>
+<ul>
+    <li ng-repeat="item in tvara.current.media track by $index">
+        {{item.title}} "{{item.url}}" [{{item.file.progBar}}]
+    </li>
+</ul>
+<div ng-controller="FlowController as vm">
+    <div flow-init
+         flow-name="vm.flow"
+         flow-files-added="vm.add($files)"
+         flow-files-submitted="vm.submit()"
+         flow-error="vm.error()"
+         flow-progress="vm.progress()"
+         flow-file-success="vm.success()">
+        <hr>
+        <button class="btn" ng-click="vm.info()">Info</button>
+        <button class="btn" ng-click="vm.cancel()">Cancel</button>
+        <button class="btn" flow-btn>Upload</button>
+    </div>
+</div>

@@ -1,0 +1,38 @@
+<div class="container">
+  <div class="row">
+
+    <div class="page-section col-sm-6">
+      <h3 ng-bind-html="tvara.current.bodyTitle || tvara.current.title"></h3>
+      <div class="caption" ng-bind-html="tvara.current.caption"></div>
+      <div ng-bind-html="tvara.current.body"></div>
+    </div>
+
+    <div class="image-section col-sm-6">
+      <div class="row">
+        <div ng-repeat="image in tvara.current.media track by $index"
+             ng-class="image.class"
+             class="er-image">
+          <img ng-src="{{tvara.path.media}}{{image.url}}" />
+        </div>
+      </div>
+    </div>
+
+    <div class="contact-section col-sm-6">
+      <h4>Phone</h4>
+      <p ng-repeat="phone in tvara.site.contact.phones track by $index"
+         ng-bind-html="phone">
+      </p>
+
+      <h4>Fax</h4>
+      <p ng-repeat="fax in tvara.site.contact.fax track by $index"
+         ng-bind-html="fax">
+      </p>
+
+      <h4>Email</h4>
+      <p ng-repeat="email in tvara.site.contact.emails track by $index">
+        <a ng-href="mailto:{{email}}">{{email}}</a>
+      </p>
+    </div>
+
+  </div>
+</div>
