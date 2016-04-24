@@ -1,0 +1,24 @@
+# OS X
+.DS_Store
+
+# Dev files
+node_modules
+
+# PHP Vendors installed via Composer
+src/api/vendor/
+src/api/composer.lock
+
+# Front end vendors installed via Bower
+src/public/vendor/
+
+# Miscellneous files
+test.*
+
+# Log files
+*.log
+
+# Sample site data
+src/data
+src/public/media
+
+dist
