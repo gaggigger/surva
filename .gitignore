@@ -6,7 +6,7 @@ node_modules
 
 # PHP Vendors installed via Composer
 src/api/vendor/
-src/api/composer.lock
+composer.lock
 
 # Front end vendors installed via Bower
 src/public/vendor/
@@ -18,7 +18,7 @@ test.*
 *.log
 
 # Sample site data
-src/data
-src/public/media
+# src/data
+# src/public/media
 
 dist

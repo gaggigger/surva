@@ -1,0 +1,1062 @@
+{
+  "title": "Eagle Rings",
+  "caption": "Finest US Eagle Rings.",
+  "footer": "",
+  "contact": {
+    "phones": [
+      "1234567890"
+    ],
+    "fax": [
+      "123456789"
+    ],
+    "emails": [
+      "mike@eaglerings.com",
+      "maribeth@eaglerings.com"
+    ]
+  },
+  "social": {
+    "email": "mike@eaglerings.com",
+    "facebook": "http://facebook.com/eaglerings",
+    "twitter": "http://twitter.com",
+    "linkedin": "http://linkedin.com",
+    "googleplus": "http://google.com",
+    "pinterest": "http://pinterest.com"
+  },
+  "path": {
+    "media": "./content/media/"
+  },
+  "nodes": [
+    {
+      "uri": "home",
+      "linkTitle": "Home",
+      "headerbg": {
+        "left": "centennial-ref.gif",
+        "right": "centennial-gold-banner.gif"
+      },
+      "title": "The Carroll Collection of US Eagle Rings",
+      "caption": "<p>Welcome to the Carroll Collection of United States eagle rings, the most complete and celebrated offering of fine handcrafted rings dedicated to the bald eagle and its American iconology.</p>",
+      "body": "<p>A figure of freedom, grace and power, the eagle holds a prominent place in the history and culture of our great country, as well as throughout modern and ancient civilizations.</p>\n\n<p>Mike Carroll purposely created this collection to recognize the dedicated men and women who have served and continue to serve in the armed forces, as well as to honor the everyday citizen who loves his country and is proud to show it.</p>\n \n<p>With names like Liberty, Republic and Union, the rings commemorate historic eras, icons and prominent organizations of the United States. Many incorporate the eagles styled after well-known Americana that can still be seen on coinage, old buildings, currency, badges and medals of achievement.</p>\n\n<p>&ldquo;I&rsquo;ve always been interested in symbols of the United States. It started many years ago when I worked as a page on the floor of the Illinois State Senate. It was there I started noticing the icons and symbols of our state and country. All those great images piqued my curiosity. My designs are an extension of that early attraction,&rdquo; says Carroll.</p>\n\n<p>The Carroll Collection is not typical of other patriotic rings on the market because they have been created to pay tribute to the history, culture and heritage of the United States. These rings are prominent, highly detailed and noticeably unique.</p>\n\n<p>Made one-at-a-time with unsurpassed craftsmanship and durability, each ring can be worn for a lifetime and passed down to future generations to cherish.  They’re 100% guaranteed and copyrighted and registered in the U.S. Library of Congress.</p>\n\n<p>Please visit <a href=\"collection\">The Collection</a> to see all of our handsome rings and to choose one for yourself or someone special.</p>",
+      "media": [
+        {
+          "url": "home-1.jpg",
+          "title": "",
+          "class": "col-md-12"
+        },
+        {
+          "url": "home-2.jpg",
+          "title": "",
+          "class": "col-md-6"
+        },
+        {
+          "url": "home-3.jpg",
+          "title": "",
+          "class": "col-md-6"
+        },
+        {
+          "url": "home-4.jpg",
+          "title": "",
+          "class": "col-md-12"
+        }
+      ],
+      "nodes": [],
+      "url": "home",
+      "adminUrl": "admin/home",
+      "parentPath": ""
+    },
+    {
+      "uri": "collection",
+      "linkTitle": "The Collection",
+      "title": "Ancient Art, Modern Collection",
+      "caption": "",
+      "body": "<p>Each eagle ring in the collection is created utilizing the ancient art of lost wax casting. Lost wax casting is a timeless jewelry-making method used by the finest craftsmen in the world for hundreds of years. It is at this point that the ultimate beauty of a fine piece of jewelry originates.</p><p>The original ring design begins as a sketch on paper. Then it is hand-carved out of a single piece of wax. With surgical precision, every feather, shield and shape is intricately carved into a three-dimensional model. Some designs take several weeks to complete.</p><p>After the wax model is finished, it is enclosed in a mold and fired in a furnace that vaporizes the wax. Molten metal is then poured into the mold&rsquo;s cavity replacing the wax.  Once it has been carefully cooled, the metal perfectly reproduces the hand-carved wax model that has been fired away. Thus the process is called lost wax casting.</p><p>A mold is then made from the model to reproduce single or multiple editions of the piece in 18k, 14k or 10k gold or sterling silver. After the ring is cast to your exact size and specifications, it is polished by hand and stamped with the letters USA, which is your assurance of its American origins.</p><p>Look through our Eagle Rings and find the one that honors your military service, celebrates your love of country or just looks and feels right for you.  Then go to our CONTACT US page to complete your purchase.</p>",
+      "nodes": [
+        {
+          "uri": "1807-eagle",
+          "title": "1807 Eagle Ring",
+          "body": "<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "testimonials": [
+            {
+              "message": "Mike, Just got the ring! Love it. Good fit, thanks again.",
+              "author": "D. Cade, Col. USAFR"
+            }
+          ],
+          "media": [
+            {"url": "ring/1807-eagle-gold.jpg"}
+          ],
+          "url": "collection/1807-eagle",
+          "adminUrl": "admin/collection/1807-eagle",
+          "parentPath": "collection/",
+          "caption": "<h3>Honoring an early patriot</h3>\n<p>This ring was designed in recognition of John Reich who became the second Engraver of the United States Mint in 1807. He designed many coins in circulation from 1807 until 1836. Our 1807 Eagle Ring is based on the image of the eagle on the reverse side of Reich&rsquo;s Liberty Cap silver half dollar. Reich was responsible for several major designs of early US coinage. In fact, his first coins were among the most popular commercial denominations of their time and are highly collectible to this day.</p>"
+        },
+        {
+          "uri": "first-naval",
+          "title": "1st Naval Ring",
+          "body": "Welcome Aboard! \nAs a tribute to past and present United States Naval forces, this ring features one of the most widely recognized Navy symbols. The eagle stands tall on the armorial shield of thirteen stars and stripes with crossed anchors. Deep horizontal cuts highlight the anchor and wings, while a handsome &ldquo;raked&rdquo; band enhances the design.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "testimonials": [
+            {
+              "message": "Go Navy, thanks Mike. The ring is great, fits perfect!",
+              "author": "F. Jilick, San Francisco, CA"
+            },
+            {
+              "message": "I just wanted to let you know that my ring arrived in the mail today and it&rsquo;s beautiful: something I will be proud to wear the remainder of my life. Thank you again for the wonderful experience and great service.",
+              "author": "Gloria"
+            },
+            {
+              "message": "Mike, I received my ring today and the craftsmanship is great!  I appreciate your good service and work.  Thanks a lot.",
+              "author": "T. Dean"
+            },
+            {
+              "message": "Sir, I received my 1st Naval navy ring yesterday and am very pleased with the quality and craftsmanship. It has already caught the eye of some of the guys at work and I told them about your company. Since I will be closing out my 22 year Navy career this spring, I will wear this ring as symbol of my service in the World&rsquo;s Greatest Navy! Thanks.",
+              "author": "ABHC D. Laughner, Meridian, MS"
+            }
+          ],
+          "media": [
+            {
+              "url": "first-naval-gold.jpg"
+            }
+          ],
+          "prices": [
+            {
+              "option": "Heavy Sterling Silver",
+              "cost": 200
+            },
+            {
+              "option": "10 Karat Yellow Gold",
+              "cost": 1000
+            },
+            {
+              "option": "10 Karat White Gold",
+              "cost": 1100
+            },
+            {
+              "option": "10 Karat Rose Gold",
+              "cost": 1200
+            },
+            {
+              "option": "14 Karat Yellow Gold",
+              "cost": 1300
+            },
+            {
+              "option": "14 Karat White Gold",
+              "cost": 1400
+            },
+            {
+              "option": "14 Karat Rose Gold",
+              "cost": 1500
+            },
+            {
+              "option": "18 Karat Yellow Gold",
+              "cost": 1800
+            },
+            {
+              "option": "18 Karat White Gold",
+              "cost": 2000
+            },
+            {
+              "option": "18 Karat Rose Gold",
+              "cost": 2200
+            }
+          ],
+          "url": "collection/first-naval",
+          "adminUrl": "admin/collection/first-naval",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "air-force-original",
+          "title": "Air Force Original Ring",
+          "body": "OUR HEAVIEST RING\nDesigned with the highest respect for the Seal of the United States Air Force, our Air Force Ring captures the heraldic representation of the thunderbolt, the weapon of the mythological deity Jupiter, the Roman god of the heavens. Introduced to celebrate the 60th Anniversary of the U.S. Air Force, our ring symbolizes U.S. air striking power. &ldquo;The eagle&rsquo;s head is turned to the right, facing the enemy, while looking toward the future and not dwelling on past deeds.&rdquo; Weighing in at over 1.5 ounces in 18k gold, it is substantial and impressive. Order yours with diamonds in place of the 13 stars.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "testimonials": [
+            {
+              "message": "I received the USAF ring today, and it is truly impressive. The intricate design and detail are exceptional, and the craftsmanship and finish are excellent. I am sure my son will be very proud of it. Again I commend you on your fine work and service. I would appreciate your sending me a catalog for future reference. Best Regards.",
+              "author": "O. Vaughan , Elkhart, IN"
+            },
+            {
+              "message": "Hello Mike, Thank you so much for the beautiful Air Force ring that you made for my father!  He and my mother absolutely love the ring. They are so impressed with your meticulous craftsmanship and attention to detail. Thank you again for a job very well done! Best Regards.",
+              "author": "M. Schanck"
+            },
+            {
+              "message": "My beautiful wife Sandy just gave me the Air Force Ring for my 50th birthday. All I can say is WOW! What a wonderful job you did. The quality, weight, and style is amazing I&rsquo;m proud to wear this ring just as I was proud to serve.",
+              "author": "David, M., Sgt, USAF Ret."
+            }
+          ],
+          "media":[
+            {
+              "url": "ring/air-force-original-gold.jpg"
+            }
+          ],
+          "url": "collection/air-force-original",
+          "adminUrl": "admin/collection/air-force-original",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "air-force-ii",
+          "title": "Air Force II",
+          "caption": "",
+          "body": "OUR HEAVIEST RING\nDesigned with the highest respect for the Seal of the United States Air Force, our Air Force Ring captures the heraldic representation of the thunderbolt, the weapon of the mythological deity Jupiter, the Roman god of the heavens. Introduced to celebrate the 60th Anniversary of the U.S. Air Force, our ring symbolizes U.S. air striking power. &ldquo;The eagle&rsquo;s head is turned to the right, facing the enemy, while looking toward the future and not dwelling on past deeds.&rdquo; Weighing in at over 1.5 ounces in 18k gold, it is substantial and impressive. Order yours with diamonds in place of the 13 stars.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/air-force-ii-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/air-force-ii",
+          "testimonials": [
+            {
+              "message": "Wanted to call to let you know you did a wonderful job with my Air Force ring. It is outstanding and I&rsquo;m going to tell all my friends. Thank you.",
+              "author": "C.Rogers, Myrtle Beach, SC"
+            },
+            {
+              "message": "Dear Mike, We received the Air Force ring yesterday and were very pleased with your fine workmanship. Thank you.",
+              "author": "Dr. Anthony U., Perry, OH"
+            }
+          ],
+          "adminUrl": "admin/collection/air-force-ii",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "american",
+          "title": "America Ring",
+          "caption": "",
+          "body": "SHOW YOUR TRUE COLORS\nOur America ring is an original design that is classic USA, combining the two greatest symbols of our country, the American flag and the American bald eagle. The colors on the enamel version are meticulously inlaid with careful attention to detail. Cast in the metal of your choice, this beautiful example of patriotism is one of the heaviest rings in our collection. Please allow extra time for enameling - it&rsquo;s worth the wait. Also available without enamel.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/american-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/american",
+          "testimonials": [
+            {
+              "message": "Hello Mike, The America ring arrived in our mail this morning and I didn&rsquo;t open it until my wife, Shirley, was here to see it with me. It is gorgeous and much prettier than the pictures show. I am totally satisfied with it and will wear it proudly everywhere I go.  It is everything I was hoping for and I will cherish it from now on. Thank you for your professional quality work and I will be telling everyone that comments on it where and from whom I purchased it.",
+              "author": "Charles H. Bell COL, USA, Ret."
+            }
+          ],
+          "adminUrl": "admin/collection/american",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "aviator",
+          "title": "Aviator Ring",
+          "caption": "",
+          "body": "KICK THE TIRES AND LIGHT THE FIRES!\nAlthough the symbolism and heraldry of this ring dates back to the 1780&rsquo;s, this design is similar to the many Army Air Corps and Airborne wings and medals displayed during the WWII era. It is an instantly recognizable U.S. icon. Deeply cut wings wrap half way around a thick shank. One of our most popular rings.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/aviator-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/aviator",
+          "testimonials": [
+            {
+              "message": "&ldquo;Aviator&rdquo; is both a work of art in a full sense and an intricate sculpture as well. Although the photographs on your web site are beyond excellent, the only way to capture the fullness of the ring is to put it on. Its heft is perfect and it is quite masculine. By the way, it has replaced my B.A. college ring, for the 1st time since 1978.",
+              "author": "R.M. Lichtman, PhD, CASAC"
+            },
+            {
+              "message": "I&rsquo;ve been a pilot since 1985 and I have to say I have never seen anything like this ring and I am most proud to wear it. I have had soooo many people notice it and compliment it. The wings are outstanding. Thank you. I mention you guys all the time.",
+              "author": "J. Boyd, Del Mar, CA"
+            },
+            {
+              "message": "Mike, I have been like a little kid at Christmas waiting for Santa to arrive with his package from the Carroll Collection. He finally arrived in the form of the mailman. I have long looked for something like you so beautifully offer. I have not found anything that approaches your designs. I am ever so pleased. My expectations have been exceeded and I can&rsquo;t thank you enough for your skill and ability. Once again, thank you very much and keep up the great work. You have my admiration, respect and allegiance.",
+              "author": "Robert M. Couch"
+            }
+          ],
+          "adminUrl": "admin/collection/aviator",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "centennial",
+          "title": "Centennial Ring",
+          "caption": "",
+          "body": "MORE THAT 100 YEARS OF OF TRADITION\nThink of the Centennial ring as a window to the past. Inside, our national symbol is perched on an armorial shield, holding a banner in its beak, while watching over the olive branches of peace and clutching the arrows of war. The ring face measures almost an inch across. An impressively wide and comfortable fit on any size hand.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/centennial-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/centennial",
+          "testimonials": [
+            {
+              "message": "Thank you very much for the handsome Centennial ring. It was everything that I hoped for. Thanks also for the follow up call by Molly to advise the ring was being shipped. You have made a &ldquo;fat old man&rdquo; happy! Wishing you all the best.",
+              "author": "F. LaRocco, Joliet, IL"
+            },
+            {
+              "message": "Mike, I want to let you know I am very pleased with my ring, Centennial. Very good, excellent work! The detail is fine...wings, arrow heads and I like the eagle&rsquo;s head being 3-D. Well Done!",
+              "author": "Terry, Lafayette, IN"
+            }
+          ],
+          "adminUrl": "admin/collection/centennial",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "centurion",
+          "title": "Centurion Ring",
+          "caption": "",
+          "body": "Classic Roman Influence\nLike so many United States symbols and icons influenced by the Roman Empire, this eagle ring is truly a classic. Ancient Roman standards contained many symbols, but this design was an icon of the Roman Legion. The wings are carved under sheltering laurel leaves, symbolizing victory while adding striking dimension to the design. Another one of our &ldquo;weighty&rdquo; designs sure to be noticed!\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/centurion-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/centurion",
+          "testimonials": [
+            {
+              "message": "I received my Centurion ring today. It is the most elegant ring I have ever seen. I began wearing it immediately. The workmanship is superb and it&rsquo;s nice and heavy—a manly ring for sure. I own a two carat man&rsquo;s diamond ring worth $15,000 and I like the Centurion better. Thanks so much for a great looking ring. I would recommend you to anyone who admires it. Good luck and keep up the great work.",
+              "author": "T. Franklin, Watchung, NJ"
+            },
+            {
+              "message": "Mike, sorry I haven&rsquo;t written sooner but I&rsquo;ve been a little busy.  However, I just wanted to say thank you for the fast shipment and exquisite quality of the ring I ordered.  It truly is a work of art and I often receive compliments on it when it is noticed by other people.  I hope to someday afford to purchase a 10KT version of the Centurion as I think it is by far the most regal looking one in your collection.  Thank you for being a real American patriot and supporting those of us in uniform! All the best.",
+              "author": "S. Williams CPT, Armor United States Army"
+            },
+            {
+              "message": "The Centurion Ring came today.  We are enormously impressed.  I have never seen a ring so well cast and heavy. A genuine work of art.  Thank you for the excellent craftsmanship and service.  I will surely recommend you to all my present and ex-military friends. Thanks again.",
+              "author": "R. Wertz"
+            }
+          ],
+          "adminUrl": "admin/collection/centurion",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "coast-guard",
+          "title": "Coast Guard Ring",
+          "caption": "",
+          "body": "Eagle, Shield & Anchor\nFashioned after an officer&rsquo;s badge, the sculpted contours and signature details pay tribute to the United States Coast Guard. Until the Navy Department was established in 1798, the Coast Guard was recognized as our country&rsquo;s only official armed force at sea. Today the Coast Guard operates as part of the Department of Homeland Security serving as the nation&rsquo;s front-line agency for enforcing our laws at sea, protecting our coastline and ports and saving lives.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/coast-guard-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/coast-guard",
+          "testimonials": [
+            {
+              "message": "My Coast Guard ring arrived today. I am very pleased. The sizing is just right. The Coast Guard ring is a great design and is a great testament to my 31 years of active duty. I will proudly wear it and display it to my friends. Thank you for caring about those of us who serve.",
+              "author": "T. Flynn, LCDR, USCG R"
+            },
+            {
+              "message": "I have to admit, you have the best one out there. I have looked at a lot Coast Guard rings and they all, except yours, look like high school class rings. I am proud to wear it. It really sums up the 22 years I spent there. Thank you.",
+              "author": "M. Smith, Portsmouth, VA"
+            }
+          ],
+          "adminUrl": "admin/collection/coast-guard",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "colonel-captain",
+          "title": "Colonel (Captain) Ring",
+          "caption": "",
+          "body": "Better Known as &ldquo;Sir&rdquo; or &ldquo;Ma&rsquo;am&rdquo;\nStyled from the wings of a &ldquo;full-bird,&rdquo; this ring sums up the rank and achievement of its owner. The insignia for a Colonel is a silver eagle with a U.S. shield superimposed on its chest, holding an olive branch and a bundle of arrows in its talons. The eagle led to the informal term &ldquo;full-bird Colonel.&rdquo; Colonel is a rank used by the Army, Marines and Air Force. The equivalent in the Navy or Coast Guard is Captain. Top quality workmanship enhances this clear image of authority.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/colonel-captain-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/colonel-captain",
+          "testimonials": [
+            {
+              "message": "Dear Mike, Maribeth and Molly, Returned from TN to find the rings - they&rsquo;re gorgeous. Gave Captain Pennoyer his ring today and he was thrilled, as was I. Thanks to you all for a great job.",
+              "author": "Capt. J Farney, USSNR, R, Flat Rock, NC"
+            },
+            {
+              "message": "Hi Mike, Haven&rsquo;t had the opportunity to tell you how pleased I am with the Colonel ring. As with my other military ring from your collection, Independence, it is just perfect. Your rings are truly unique-- and deeply appreciated.",
+              "author": "S. Weinstein, Sylvania, OH"
+            },
+            {
+              "message": "Mike, I am wearing one of them now!  Absolutely beautiful.  I will wear both of them with pride.  You do good work!  My hat is off to you.  Don&rsquo;t be surprised if I send you some business! Again, thanks.  I could not be happier with my rings.",
+              "author": "S/F Jim Davis Colonel USMC (Ret)"
+            }
+          ],
+          "adminUrl": "admin/collection/colonel-captain",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "defender",
+          "title": "Defender Ring",
+          "caption": "",
+          "body": "Serious Display of Power\nA commanding design with exacting detail makes this a formidable ring. With its wings wrapping half-way around the wide band, the bold eagle is perched atop the globe with outward pointing arrows, adding to the feeling of supreme rule. One of the larger rings in our collection, it&rsquo;s heavy, solid and substantial.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/defender-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/defender",
+          "testimonials": [
+            {
+              "message": "Just wanted to thank you for the awesome ring. As a retired Air Force Security Forces Defender this ring represents our career field perfectly. And thank you for the quick shipping.",
+              "author": "RD Smith USAF (CMSgt Ret), 141st Security Forces Squadron"
+            },
+            {
+              "message": "Dear, Mike I received the Defender Eagle and you were right -- it&rsquo;s big, bold and powerful. Fits perfectly and my colleagues say it sends a direct message. To you and your wife… thanks a lot.",
+              "author": "D. Mason"
+            },
+            {
+              "message": "Mike, I received my Defender ring over the weekend and wanted to let you know that I love it. It symbolizes everything I did when I was in the military. Thanks again.",
+              "author": "John"
+            }
+          ],
+          "adminUrl": "admin/collection/defender",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "freedom",
+          "title": "Freedom Ring",
+          "caption": "",
+          "body": "Strong and Significant\nOne of the heavier rings in our collection, this exceptional sculpture has the look of an engraved stamp or rare coin. In &ldquo;relief&rdquo; form, its smooth outline contrasts markedly with the sharply detailed eagle. The solid, wide band fits well and looks especially impressive on a large hand.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/freedom-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/freedom",
+          "testimonials": [
+            {
+              "message": "Mike I received the Freedom ring and it is just AWESOME...everybody says it looks great. I really like it - you did an excellent job. I hope to do more business with you in the future.",
+              "author": "T. Stachowicz"
+            },
+            {
+              "message": "Mike, I received the ring today. It looks great and fits like a dream. Thank you.",
+              "author": "Alex"
+            }
+          ],
+          "adminUrl": "admin/collection/freedom",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "glory",
+          "title": "Glory Ring",
+          "caption": "",
+          "body": "Hand Carved Tradition\nRepresenting honor, public acknowledgment and admiration for achievement, the emblem for our Glory Eagle Ring is similar to the eagles on United States coins minted in the early 1800&rsquo;s. One of our mid-weight rings, it&rsquo;s a comfortable fit featuring a classic American icon.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/glory-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/glory",
+          "testimonials": [
+            {
+              "message": "Thank you for the Glory ring. I love history and its symbolism of the early United States. The detail is amazing and I&rsquo;ve already had many compliments. I haven&rsquo;t taken it off my hand. Good job.",
+              "author": "B. Lewis, St. Augustine, FL"
+            },
+            {
+              "message": "As a civil war historian, I love this ring. Thank you. It fits perfectly and reflects one of my lifelong passions.",
+              "author": "K. Adams, Ashville, NC"
+            }
+          ],
+          "adminUrl": "admin/collection/glory",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "great-seal",
+          "title": "Great Seal Ring",
+          "caption": "",
+          "body": "Our First Eagle Ring\nThe first eagle ring in our collection was designed and sculpted in honor of The Great Seal of the United States, originally approved by Congress in 1782. The ring band is surrounded by engraved scrollwork. This handsome mid-weight eagle ring is strong, durable and beautiful. One of the most widely recognized American symbols in the world.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/great-seal-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/great-seal",
+          "testimonials": [
+            {
+              "message": "I got it just now!  Wowzers!  It&rsquo;s a hefty little heifer!  Just gorgeous -- I&rsquo;ll give it to him on Father&rsquo;s Day -- if I can hold out.  I&rsquo;ll send you a picture. Thanks to you both.",
+              "author": "Nancy Saenz"
+            },
+            {
+              "message": "Mike, I&rsquo;m sure that the ring will be great. I love your country (I&rsquo;ve been three times, for holidays, in the US in the last eight years) and I&rsquo;m proud of the friendship among Italy and United States. I&rsquo;ve chosen the ring &ldquo;Great Seal&rdquo; for two reasons: 1) it&rsquo;s the symbol of a country that I appreciate for many reasons; 2) it&rsquo;s quite similar to the rings that Elvis loved to wear (I&rsquo;m a great fan of Elvis). When I receive the ring I&rsquo;ll let you know. God bless the USA.",
+              "author": "Maurizio, Italy"
+            }
+          ],
+          "adminUrl": "admin/collection/great-seal",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "heritage",
+          "title": "Heritage Ring",
+          "caption": "",
+          "body": "Proud To Be Passed Down\nHeritage is defined as &ldquo;something passed down from preceding generations&rdquo; and this ring fits the bill! Influenced by U.S. Naval officers of the Civil War era, the eagle stands on a single anchor encased in a handsome octagonal band. A classic nautical look of elegance with an estate quality sure to be appreciated for years to come.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/heritage-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/heritage",
+          "testimonials": [
+            {
+              "message": "Mike, Maribeth, this ring is a great maritime symbol of our country and I will wear it always. I was in the US Navy and am kind of a history buff, so it really hits home with me. Your craftsmanship is outstanding. Keep doing what you&rsquo;re doing!",
+              "author": "B.Hennessy, Providence, RI"
+            },
+            {
+              "message": "I just received the gold Heritage navy ring today and it is so beautiful! I can&rsquo;t tell you how satisfied I am with your work. It is a real work of art. Thank you so much.",
+              "author": "P. Paynter, Labelle, FL"
+            },
+            {
+              "message": "I cannot begin to tell you how much my sweetie loves the navy ring.  He was commissioned as a Navy officer last week and wears it very proudly.  It looks spectacular, even better than the picture.  I have attached a picture where he was mugging out at dinner wanting to show it off. Thank you so much for such great work and your kindness in communication.",
+              "author": "G. Peterson, Seattle, WA"
+            }
+          ],
+          "adminUrl": "admin/collection/heritage",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "independence",
+          "title": "Independence Ring",
+          "caption": "",
+          "body": "Wherever You Go, This Ring Will Be Recognized!\nThe Great Seal of the United States is one of the most widely recognized American symbols in the world. It is also used quite extensively by the United States Army. This is second heaviest ring in our collection, solid and highly detailed with a deeply etched face and a very comfortable feel on your finger. Because of its heft, order it on the snug side. Worth its weight in gold!\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/independence-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/independence",
+          "testimonials": [
+            {
+              "message": "I received my Independence ring yesterday. I am so pleased with this ring -- it was a birthday present from my wife and kids. It was their way of showing their pride for what their Dad does for the military. Your craftsmanship is unequaled. The detail is unrivaled. God bless you and your company for what you do.",
+              "author": "Bernard F. Nacu, MAJ. USAR"
+            },
+            {
+              "message": "Mike, I&rsquo;ve had so many compliments on the ring. From co-workers to strangers on the street, your ring has caught the eye of many people. I placed the ring into the shop today to have my name engraved so that I would always be able to identify this as mine. It will be passed to my children and grandchildren in later years. I have to admit, of all the jewelry that I possess, your ring has meant the most to me, outside of my wedding ring. It is a beautiful ring, and I am so glad that Linda found your site. Thank you for your attention to detail and the creation of a very unique ring. I can only say that as an American and retired Army, your ring is an inspiration to me and I&rsquo;m proud to wear it every day. \nThank You.",
+              "author": "Platoon Sergeant (Retired) Ernie P. Lowry"
+            },
+            {
+              "message": "Mike, Last week I received the 10K Independence ring my wife got me for Christmas.  I can&rsquo;t tell you how impressed we are with the ring.  It is a heavy, massive, impressive piece of jewelry.  Since I am retired Air Force, the design of the Independence meant more to me than the others.  I&rsquo;m very happy with the workmanship of my ring. You are truly an artist.",
+              "author": "Kenneth A. Campbell MSgt, USAF (Retired)"
+            }
+          ],
+          "adminUrl": "admin/collection/independence",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "justice",
+          "title": "Justice Ring",
+          "caption": "",
+          "body": "An Exacting Image  \nA widely recognized version of the Great Seal and one of the heaviest and newest rings in our collection, the round face is hand-carved in rich detail. Thirteen stars represent the original colonies, surrounded by clouds. This ring is our most exacting image of the U.S. Army insignia.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/justice-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/justice",
+          "testimonials": [
+            {
+              "message": "The &ldquo;Justice&rdquo; ring arrived, it is perfect! The craftsmanship is outstanding and your attention to detail amazing. I couldn&rsquo;t be happier. Thanks again Mike. You made me proud.",
+              "author": "B. Zientara, Arlington Hts, IL"
+            },
+            {
+              "message": "Your patriotic ethos as an American artisan underscores your symbolic and distinctive gold creations.  Your collaboration based on our National coat of arms, whilst hand-made, creates a beautiful ring suitable as a family heirloom.  Mike, you are in elite company and your workmanship stands alone.  I will wear this ring with distinction and speak highly of you!",
+              "author": "E. Munson"
+            },
+            {
+              "message": "Mike, thanks for the truly handsome Justice Eagle Ring!  I am honored to wear your work of art; symbolism of the embodiment of our great country.",
+              "author": "Steven"
+            }
+          ],
+          "adminUrl": "admin/collection/justice",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "laureate",
+          "title": "Laureate Ring",
+          "caption": "",
+          "body": "Ancient Elegance   \nThis ring is destined to become a sought after collectible! The handset antique styled eagle was carefully etched around the ring face giving the appearance of engraved relief. Simple, solid and elegant, the Laureate is one of the heavier rings in the collection.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/laureate-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/laureate",
+          "testimonials": [
+            {
+              "message": "Hi Mike, I received the Laureate today. I&rsquo;m pleasantly surprised at the weight of the lighter version. It looks even better in person than in the picture and I&rsquo;m very pleased with the purchase overall. Thanks again for the top-notch customer service; I might order again at some point in the future. Thanks.",
+              "author": "JH"
+            }
+          ],
+          "adminUrl": "admin/collection/laureate",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "legacy",
+          "title": "Legacy Ring",
+          "caption": "",
+          "body": "Celebrate Your Heritage\nThe historic symbolism and three-dimensional detail make this an instant classic. The eagle, shield and banner are flush engraved into a smooth, comfortable shank.  Exceptional craftsmanship and traditional imagery rank this ring with the highest of vintage, traditional American iconography.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/legacy-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/legacy",
+          "testimonials": [
+            {
+              "message": "Just received my fourth eagle ring the &ldquo;Legacy.&rdquo;  It&rsquo;s big and bold, just espouses what service to this nation means to this old retired sailor &ldquo;Duty, Honor, Country.&rdquo;  This magnificent ring will be worn with great pride.  The ring gives meaning to having served in the greatest sea power on earth where honor and tradition are forever cherished.  Well done my friends, well done.  Thanks and God bless you Maribeth for putting up with this old retired Master Chief!!  Your help and service as always was topnotch.",
+              "author": "Jerald A. Noonan ENCM (SW) USN, RET., Pace, FL"
+            }
+          ],
+          "adminUrl": "admin/collection/legacy",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "liberty",
+          "title": "Liberty Ring",
+          "caption": "",
+          "body": "An Early American Icon \nOur Liberty ring captures the feeling of &ldquo;old-time&rdquo; America. A familiar symbol of the United States, the deeply engraved laurel leaves flank a great old eagle. Lighter in weight than many of our rings, the Liberty Eagle Ring is heavy in symbolism. Sure to be kept for generations.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/liberty-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/liberty",
+          "testimonials": [
+            {
+              "message": "The size, weight and detail are perfect. As you know, I bought two more for my sisters and they all wear them. I wish I could afford the gold versions but heh, maybe next year. Thank you again.",
+              "author": "M Gallagher, Chicago, IL"
+            },
+            {
+              "message": "I love this ring. It is a simple, straightforward old looking eagle that looks like an heirloom. Especially the scroll you made on the sides. Great work guys.",
+              "author": "J. Daniels, Fargo, ND"
+            }
+          ],
+          "adminUrl": "admin/collection/liberty",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "marine-corps",
+          "title": "Marine Corps Ring",
+          "caption": "",
+          "body": "THE FINEST MARINE RING OUT THERE. PERIOD.\nWhen Mike set out to create a ring worthy of a U.S. Marine, he knew it had to be beyond comparison: instantly recognizable, affordable to all ranks and of the highest quality. It is just that. Our Marine Corps ring is unlike any other you will ever see. Distinguished by the eagle globe and fouled anchor, its hand-sculpted design is one of a kind, made entirely in the United States and licensed by the U.S. Marine Corps. This beautiful ring is copyrighted in the Library of Congress. You will not find another like it anywhere in the world.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/marine-corps-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/marine-corps",
+          "testimonials": [
+            {
+              "message": "My Husband retired from the Marine Corps last year and he found your Marine Corps ring on the internet. So of course we ordered it and he loves it. Well today our son graduated from boot camp and we ordered the same USMC ring but in sterling silver. Thank you so much - my husband and son wear the Marine Corps ring with great pride.",
+              "author": "Karen Passot, Twenty Nine Palms, CA"
+            },
+            {
+              "message": "Mike, during the first week in December, I called and ordered a 14K yellow gold Marine ring. I couldn&rsquo;t be more pleased. Your craftsmanship stands alone. &ldquo;Outstanding&rdquo; is all I can say! I am part of the pastoral staff of a local Bible Church here in Des Moines. My co-pastors call it the most handsome ring they&rsquo;ve ever seen. I hope to pass it on to one of my grandchildren when I go home to be with the Lord. God bless you Mike and a BIG SEMPER FI.",
+              "author": "Rick Lewis Sgt., Golf Co. 2nd Bn. 7th Marines, 1st Mar Div. Vietnam, Class of &ldquo;69&rdquo;"
+            },
+            {
+              "message": "I have the great honor to tell you that I have just received my Marine Corps ring that you made for me. Let me say that the Marine ring is beyond my expectations in all respects! I will wear the ring with much pride and respect for the truly magnificent sacrifices of the Marines who have come before and the Marines who are serving—but most especially for the Marines who have paid the ultimate price for freedom to our great United States of America. I thank you for your artisan craftsmanship to our beloved United States Marine Corps! Well done! Semper Fidelis.",
+              "author": "Mike Nicolet, Sgt, USMC (Ret.)"
+            }
+          ],
+          "adminUrl": "admin/collection/marine-corps",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "mariner",
+          "title": "Mariner Ring",
+          "caption": "",
+          "body": "The Old Seafarer\nPrior to 1841, U.S. Naval officers wore buttons on their uniforms resembling our Mariner Ring design. The old-style eagle is perched on a single anchor surrounded by a highly polished oval shank. This is a great nautical ring for maritime history buffs or anyone who loves the sea. Mid-weight, comfortable and polished to perfection!\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/mariner-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/mariner",
+          "testimonials": [
+            {
+              "message": "Mike - I received my Mariner ring today. I can&rsquo;t think of a better time for it to arrive - Sep. 11. The color of the rose gold, as well as the finish and fit of the navy ring is perfect, and the detail is incredible! Thanks again and God Bless.",
+              "author": "S. Belitsky, Holtwood, PA"
+            },
+            {
+              "message": "The Mariner&rsquo;s Sterling Silver Ring is absolutely gorgeous! It is of heirloom quality and fits perfectly. You are a master! This is one piece of jewelry that I will be proud to pass down to my Naval Officer son from his Coast Guard father. It is by far the nicest nautical ring I&rsquo;ve ever owned and I&rsquo;ve owned a few. Thank you.",
+              "author": "Bill Doherty U.S. Coast Guard 1967-71"
+            },
+            {
+              "message": "Mike, I received my mariner ring and am delighted. It fits perfectly, looks great, made heavy and I will never lose it off my hand. I have been looking for a navy ring for the last 30 years that I liked, finally got one. Thanks.",
+              "author": "Dick Anderson, Navy Corpsman 1970-74"
+            }
+          ],
+          "adminUrl": "admin/collection/mariner",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "mca",
+          "title": "MCA Ring",
+          "caption": "",
+          "body": "Marine Corps Association Life Member Ring \nMike was commissioned by the Marine Corps Association to design a ring combining his original Marine Corps ring design with the MCA Life Member engraving. This heirloom quality ring is made one at a time to your exact size. Because it is special order, please allow 14-21 days for shipping after placing your order.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/mca-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/mca",
+          "testimonials": [],
+          "adminUrl": "admin/collection/mca",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "north-eagle",
+          "title": "North Eagle Ring",
+          "caption": "",
+          "body": "A Sculpture in Miniature\nInspired by the beauty and spirit of the great American north woods, this heavy eagle ring is a solid chunk of metal, master-sculpted into a 3-D work of art. The eagle&rsquo;s head sits more than a 1/4 inch away from the finger. Highly prized for its size, dimension, weight and superior craftsmanship!\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/north-eagle-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/north-eagle",
+          "testimonials": [
+            {
+              "message": "Love the ring. Thanks.",
+              "author": "Ben"
+            },
+            {
+              "message": "When you said it was like a mini sculpture, you were right on. It really stands out. \nThank you.",
+              "author": "William G, Marquette, MI"
+            }
+          ],
+          "adminUrl": "admin/collection/north-eagle",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "old-abe",
+          "title": "Old Abe Ring",
+          "caption": "",
+          "body": "Historic, Heavy and Impressive\nDesigned in recognition of the bald eagle mascot of the Eighth Regiment of the Wisconsin Volunteer Infantry during the Civil War. Years later, the Old Abe eagle symbol was again taken into battle as part of the greatest airborne assault in history when the Allies launched their invasion of France in 1944. Today, America&rsquo;s elite 101st Airborne Division, the &ldquo;Screaming Eagles,&rdquo; wear a patch depicting Old Abe on their left shoulders.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/old-abe-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/old-abe",
+          "testimonials": [
+            {
+              "message": "Mike, I purchased the Old Abe ring from you just after 911. You might not remember me but that doesn&rsquo;t matter. What matters are the compliments that I receive when wearing my ring. Every time I wear it, everybody that sees it loves it, including me. Thanks for such a great product. (I was one of the L.U.#3 NYC electricians who were responsible for getting power back on for the city).",
+              "author": "Keith"
+            },
+            {
+              "message": "I just received my second eagle ring, the Old Abe, I am deeelighted! I thought one of my other eagle rings, the Centurion, was the cat&rsquo;s meow but the Old Abe takes the proverbial cake. If you can look at this ring and not hear &ldquo;Stars and Stripes Forever&rdquo; or not feel extreme pride in being an American then you need to be reported to the Homeland Security Division on Un-American Activities. The Old Abe is the epitome of the goldsmith&rsquo;s expression of what a true American Eagle crafted into a bold ring should look like! As a retired Navy Command Master Chief, I will take great pride in the wearing of this finely crafted emblem of our mighty nation. I look forward to obtaining more eagle rings from your outstanding collection in the near future.",
+              "author": "J.A. Noonan ENCM (SW) USN, RET, Pace, FL"
+            },
+            {
+              "message": "Maribeth, Mike: Just received the &ldquo;Old Abe&rdquo; Eagle Ring in Sterling in the mail. It is an unbelievably beautiful ring. I like the Mariner Ring I purchased a few years ago, but this one is just exquisite. You really outdid yourself and it fits great! Not too loose, not too tight. I bought the Old Abe Ring because I&rsquo;m a Civil War Buff and we are celebrating our 150th anniversary of that conflict. It will be on my hand for a long time. Best Regards.",
+              "author": "W. Doherty"
+            }
+          ],
+          "adminUrl": "admin/collection/old-abe",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "patriot",
+          "title": "Patriot Ring",
+          "caption": "",
+          "body": "For Those Who Love and Support Their Country\nThe eagle is standing on the armorial shield of stars and stripes with sharply engraved leaves wrapping prominently around a thick band. Our Patriot ring was designed to say thanks and pay respect to the every-day citizen who loves his country and is proud to display it.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/patriot-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/patriot",
+          "testimonials": [
+            {
+              "message": "Just received my Patriot ring today. It is just what I was looking for. Your customer service and follow up (we played phone tag three times) was outstanding. Thank you. If you ever need a reference, have them call me!",
+              "author": "J. Baker, New York, NY"
+            }
+          ],
+          "adminUrl": "admin/collection/patriot",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "phoenix",
+          "title": "Phoenix Ring",
+          "caption": "",
+          "body": "Born From Flames\nSimple, powerful and precisely crafted, the Phoenix was a mythical bird that consumed itself by fire and, after 500 years, arose renewed from its ashes. It&rsquo;s a symbol of high virtue and grace, power and prosperity and in some cultures it represents immortality, resurrection and life after death. A popular ring in the collection.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/phoenix-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/phoenix",
+          "testimonials": [
+            {
+              "message": "I received the Phoenix Eagle ring last week and I&rsquo;ve received more compliments than I could ever imagine. I love the international look and intricate detail of this ring. The craftsmanship and finish are excellent. Thank you and your team for your fine work and great customer service.",
+              "author": "William Castillo, Miami, FL"
+            },
+            {
+              "message": "Mr. Carroll, what can I say about this magnificent ring? The Phoenix ring even now shines on my hand, heavy with fine craftsmanship and minute detail. It is going to be shown to everyone that I know, and I am already planning another purchase. I am truly impressed with the styling and the look of the ring, as it is everything that I had hoped. Thank you and good luck!",
+              "author": "James Ives"
+            },
+            {
+              "message": "Hi Mike. I received my ring today, I am very impressed with the immaculate detail of my ring. My Phoenix ring is everything I expected it to be, outstanding craftsmanship. I will wear it proudly and recommend you to anyone that wants a top grade American made product that they can wear proudly.",
+              "author": "D. Diaz"
+            }
+          ],
+          "adminUrl": "admin/collection/phoenix",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "republic",
+          "title": "Republic Ring",
+          "caption": "",
+          "body": "A Timeless Design\nWe drew inspiration from an early 19th century American eagle on the Seal of the U.S. Department of Justice to create this handsome design. The eagle is perched on the armorial shield of stars and stripes while facing the arrows of war. A classic American symbol, it is perfectly carved in a mid-weight shank. A very popular design.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/republic-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/republic",
+          "testimonials": [
+            {
+              "message": "Mike, your craftsmanship and eye for detail is amazing! What a beautiful ring. It&rsquo;s (almost) too nice to wear. And you are a man of your word. I&rsquo;ve dealt with the (name withheld) Mint and it took me two months to exchange a ring that was too big. But their ring doesn&rsquo;t even come close to yours. Do you ever get any special requests for one of a kind orders? I&rsquo;ll be placing another order in the future. Thanks again Mike and my regards to your bride.",
+              "author": "B. Berka, New York, NY"
+            },
+            {
+              "message": "I wanted to confirm with you that I received my Republic ring today and I could not be happier with it. It is a perfect fit and a great addition to my collection of everything eagle. I am truly impressed with your craftsmanship and the feel of the ring, not too bulky and not too heavy yet makes a bold statement on my hand. I cannot wait until I can add another of your designs to my collection.",
+              "author": "K. Glowienke, Elk Grove Village, IL"
+            },
+            {
+              "message": "Hi Mike, I received my Republic ring the other day. It&rsquo;s gorgeous, a pure specimen of craftsmanship and the attention to detail is remarkable.  I will be wearing this ring for the rest of my life and it will now become a family heirloom which will be handed down to my grandson and to future generations.  Thank you very much.",
+              "author": "Gilman, Sr., Lifetime Member, Vermont Institute of Natural Science."
+            }
+          ],
+          "adminUrl": "admin/collection/republic",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "senator",
+          "title": "Senator Ring",
+          "caption": "",
+          "body": "A Personal Tribute \nMike calls this eagle ring &ldquo;Senator&rdquo; in memory of his father, the late Illinois State Senator John Carroll. But you don&rsquo;t have to be elected a high ranking counselor of the state to wear and appreciate the beauty of this ring. The classic early American eagle design is deeply carved into a smooth shank. Stately and distinctive looking with a very comfortable fit.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/senator-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/senator",
+          "testimonials": [
+            {
+              "message": "Hello Mike, The ring is fabulous, and fits very well. Thanks so much for expediting! Merry Christmas!",
+              "author": "Steve B."
+            },
+            {
+              "message": "Maribeth, thank you for a wonderfully crafted ring.  The Senator is an exceptional work of art. I will be proud to wear it as a quiet symbol of my career in public service working for the citizens of Delaware while on the staff of U.S. Senator Joseph R. Biden, Jr., and then-Congressman, now Senator Thomas R. Carper. The ring is elegant, hefty, distinctive, and impressive. I am extremely grateful for the artistry and workmanship that produced such a wonderful ring.",
+              "author": "R. Skomorucha, Wilmington, DE"
+            },
+            {
+              "message": "Great old symbol. Thanks you guys – I love it.",
+              "author": "D. Bridges, NH"
+            }
+          ],
+          "adminUrl": "admin/collection/senator",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "sentry",
+          "title": "Sentry Ring",
+          "caption": "",
+          "body": "Assigned To Protect  \nWe&rsquo;re known for our strong designs, but this one is really exceptional. Mike saw an Art Deco sculpture on a 1930&rsquo;s U.S. Post Office building in Pennsylvania and knew it would make an outstanding ring. The sharp, vertical lines are deeply cut in intricate detail and it fits comfortably on any hand. A dramatic, unique and stylish choice!\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/sentry-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/sentry",
+          "testimonials": [
+            {
+              "message": "Just wanted to say that I have received the Sentry ring and it is fantastic! I work in law enforcement and several of my fellow officers think that this ring is superb. Also it feels perfect under the search gloves. The Sentry ring is truly fitting for those of us who are assigned to protect. Thank you.",
+              "author": "F. Bonmati, Williamstown, NJ"
+            },
+            {
+              "message": "Hi Mike, I just wanted to thank you for the Sentry ring that I ordered. Not only does it fit perfectly, the quality of the ring is unbelievable. The Sentry ring pretty much says it all and I am proud to wear it. Thanks also for the super-fast shipping and the phone message. You don&rsquo;t receive that kind of personal treatment too much nowadays. I will certainly be ordering another ring as soon as I make up my mind which to get next. Thank you very much.",
+              "author": "Fred"
+            },
+            {
+              "message": "Mike, the Sentry is an out-standing ring! Surpassed my expectations. I love it and will be passing your brochure to all my friends. Thank you very much.",
+              "author": "Steven"
+            }
+          ],
+          "adminUrl": "admin/collection/sentry",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "spqr",
+          "title": "SPQR Ring",
+          "caption": "",
+          "body": "Similar to Our Centurion Ring \nSPQR stands for the Latin &ldquo;Senatus Populus Que Romanus&rdquo; which translates as The Senate and People of Rome. Designed at the request of an international Roman organization committed to preserving the classical foundation of Western culture, our ring represents the ancient empire&rsquo;s symbolism displayed at the base of the eagle standard carried by the Roman legions. SPQR was the motto and the official monogram of the Roman Republic, in the same way that USA represents the United States of America. This ring is also available with a blank panel for your initials.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/spqr-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/spqr",
+          "testimonials": [
+            {
+              "message": "Mike, I just received today your SPQR Ring. It is a Masterpiece. It is amazing how proud it makes me to wear this ring.  It is unbelievably great. I will return to buy the 18 K gold one. Thank you so much again.",
+              "author": "Oliver Kemper"
+            },
+            {
+              "message": "Mike: I just received my SPQR Eagle ring. It is completely beyond all of my expectations. An exquisite ring created by a true artist. Thanks so much. I will spread the word to all of my friends!",
+              "author": "Norm M."
+            },
+            {
+              "message": "Mike, received my SPQR ring. It is a beautiful ring, with excellent detail and craftsmanship. The photos do not do it justice. And thank you for the rapid delivery, the ring arrived right on time for my anniversary. Best of luck to you.",
+              "author": "Tom Denitzio"
+            }
+          ],
+          "adminUrl": "admin/collection/spqr",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "standing-eagle",
+          "title": "Standing Eagle Ring",
+          "caption": "",
+          "body": "Exceptional & Traditional \nOur Standing Eagle ring is surrounded by stars representing the 13 original U.S. colonies. As tough and rugged as our other rings, but lighter in weight, Standing Eagle was modeled after a famous emblem on a renowned Washington, D.C. building. Unlike our other rings, this eagle is at rest, secure in the strength of our great nation..\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/standing-eagle-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/standing-eagle",
+          "testimonials": [
+            {
+              "message": "I know your company specializes in larger bold designs but I wanted something that showed my patriotism but was not overpowering. Plus I have small hands. Thank you, the ring fits great.",
+              "author": "(Name withheld by request)"
+            }
+          ],
+          "adminUrl": "admin/collection/standing-eagle",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "union-eagle",
+          "title": "Union Eagle Ring",
+          "caption": "",
+          "body": "Cast For a Lifetime  \nWith unsurpassed quality and weight, this eye-catching, perfectly symmetrical ring with its classic imagery is one you&rsquo;ll want to wear every day. The eagle was engraved in a flat, oval top with talons clutching a bundle of arrows. One of our heavier offerings, this ring will make a lasting impression for years to come.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/union-eagle-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/union-eagle",
+          "testimonials": [
+            {
+              "message": "This is exactly the ring I was looking for. I have to admit, your rings are somewhat hard to find since I have never seen them in any store. The quality is great. Thanks.",
+              "author": "Bob M. Albuquerque, NM"
+            }
+          ],
+          "adminUrl": "admin/collection/union-eagle",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "washington-ring",
+          "title": "Washington Ring",
+          "caption": "",
+          "body": "A Familiar Favorite  \nYou will recognize this eagle as the reverse side of a Washington quarter dollar coin. Originally minted in 1932, the design commemorates the two hundredth anniversary of George Washington&rsquo;s birthday on February 22, 1732. John Flanagan, a New York sculptor, created the original design from a facsimile of a bust cast in 1786 by Jean Antoine Houdon. One of the lightest rings in our US eagle ring collection, Washington is a comfortable weight and a great fit on any size finger.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/washington-ring-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/washington-ring",
+          "testimonials": [
+            {
+              "message": "Got the ring today Mike.  It fits perfect it is better than I expected.  Will really promote you and show the ring off. Thanks for your service to our country.",
+              "author": "Jim S."
+            },
+            {
+              "message": "The ring is perfect.",
+              "author": "David"
+            },
+            {
+              "message": "Mike, the Sterling Silver Washington ring arrived today. It is exactly what I expected and what you represented. Better yet it fits perfectly. I am very happy with it. Thank you for the help in sizing the ring. I expect to purchase a gold eagle ring a year or so in the future. You can be sure it will be from you. Thanks.",
+              "author": "Roger Hayward"
+            }
+          ],
+          "adminUrl": "admin/collection/washington-ring",
+          "parentPath": "collection/"
+        },
+        {
+          "uri": "wpps",
+          "title": "WPPS Ring",
+          "caption": "",
+          "body": "Worldwide Personal Protective Services \nWPPS is a program under the U.S. diplomatic effort to reconstruct Iraq and Afghanistan. The Templar Cross and Shield represent Christianity and the protection offered to a country that has been attacked by threats domestic and international. The Eagle stands for Freedom and the term &ldquo;Armis Exposcere Pacem&rdquo; is Latin for &ldquo;They demand Peace through Force of Arms.&rdquo; This ring serves as a symbol to the honor and sacrifices many have given in the performance of their duties around the globe.\n\n<h3>Sizing</h3>\nWe can accommodate any ring size in ¼ increments of standard measures, so be sure to have your ring finger measured as accurately as possible before ordering.\n\n<h3>Precious Stones</h3>\nFor those of you who want something with a little more sparkle, we will inset VS1 quality diamonds, rubies, sapphires or just about any precious stone. They look particularly good along both sides at the top of each shank. Just tell us what you want when you order your ring. We&rsquo;ll be happy to advise you if you have questions. \n\n<h3>Engraving</h3>\nAs for engraving, we encourage you to take the ring to your local jeweler for this kind of custom work. This allows us to offer our 100% satisfaction guarantee within the first 30 days, provided the ring has not been engraved.\n\n<h3>100% Satisfaction Guarantee</h3>\nWe are certain you will be thrilled with the quality and workmanship of your Carroll Collection Eagle Ring, so we offer a 100%, iron-clad guarantee. Within 30 days after receipt of your ring, if you are not completely satisfied for any reason, return the ring for a full refund (minus shipping costs). No questions asked. One caveat: sterling silver rings can be gold-plated, and bronze is also available, but neither of these options can be guaranteed for durability or quality.\n\n<h3>Special Pricing</h3>\nFor gold plating of sterling silver rings or for solid bronze rings, request special pricing when you make your order. Also please note that due to fluctuating gold and silver markets, prices may vary from those quoted. Please double check at the time you make your order. Thank you.",
+          "media": [
+            {
+              "url": "ring/wpps-gold.jpg"
+            }
+          ],
+          "nodes": {},
+          "url": "collection/wpps",
+          "testimonials": [
+            {
+              "message": "Just a heads up - got my ring in today at Hillah. That ring rocks! Yes, that is one awesome ring! I can say this is an outstanding piece that illustrates what we went through over here and demonstrates the professional character of us all. It&rsquo;s an awe inspiring ring...it looks better in person! Well guys, just thought I would pass on the comments. It will definitely get attention anywhere I go -- plus the stories behind it. Thanks, Mike!",
+              "author": "Joe W."
+            },
+            {
+              "message": "Mike, Thank you for the excellent work on the WPPS ring. I have been working in the WPPS program since April, 2004 in both Afghanistan and Iraq. Finally have found a ring that will show my pride in my profession. Thank you again for creating such a beautiful ring.",
+              "author": "K.M."
+            }
+          ],
+          "adminUrl": "admin/collection/wpps",
+          "parentPath": "collection/"
+        }
+      ],
+      "url": "collection",
+      "adminUrl": "admin/collection",
+      "parentPath": ""
+    },
+    {
+      "uri": "contact",
+      "linkTitle": "Contact Us",
+      "title": "We are here to help",
+      "caption": "",
+      "body": "<p>If you have ordered from us before, you know that both my wife Maribeth and I run the business together. Most of our orders have come via our 800 number, and as a result, we have spoken directly to many of our customers over the years we have been in business.</p><p>Our newly upgraded website is designed to make it easier for you to shop and order online. It even calculates the tax and shipping costs and is specially encoded to assure your 100% safety in doing a  nancial transaction on the Web.</p><p>But, in keeping with our hands on, personalized service, please know that we are just a phone call away when you need us. We are always happy to help you make a decision, complete an order and to answer any questions you might have.</p><h3>Order now</h3><p>Or CLICK HERE to go to our secure online ordering form.</p>",
+      "media": [
+        {
+          "url": "contact-1.jpg",
+          "class": "col-md-12"
+        }
+      ],
+      "nodes": [],
+      "url": "contact",
+      "adminUrl": "admin/contact",
+      "parentPath": ""
+    },
+    {
+      "uri": "about",
+      "linkTitle": "About The Designer",
+      "title": "The Man behind the Rings",
+      "caption": "",
+      "body": "<p>Mike Carroll was born and raised in Park Ridge, Illinois, the son of a local newspaper publisher. Growing up in the newspaper business, Mike learned early on the power of the press in keeping the American way of life free and safe for democracy. It also fueled his love of country and greatly in uenced his later decision to create The Carroll Collection of U.S. Eagle Rings.</p><p>Today Mike is regarded as one of the world&rsquo;s most progressive jewelry talents. He designed his  rst ring in the cockpit of an airplane at 24,000 feet. Carroll came up with the idea to create rings with an eagle motif during a  ight between Chicago and a small town in Florida.</p><p>&ldquo;I used to  y the Chicago/Florida route on a regular basis,&rdquo; he said. &ldquo;As most pilots would agree, long  ights are hours of boredom punctuated by moments of terror. I actually sketched my  rst design during one of those  ights – the boring part.&rdquo;</p><p>Carroll made his  rst ring for himself. Without a formal education in jewelry making, he enrolled in local classes to bring his  rst design to life. He worked with some of Chicago&rsquo;s top jewelry crafters and designers. &ldquo;Most jewelers focus on popular &lsquo;fashion&rsquo; designs. They were helpful and non-threatened by my original eagle designs.&rdquo;</p><p>His hobby turned into a business as family and acquaintances responded to his initial ring design. Later, Carroll felt compelled to create a top quality ring design for his daughter and son-in-law and friends serving in the US Marine Corps. Carroll boasts his Marine Corps Ring to be &ldquo;The Finest USMC ring out there. Period.&rdquo; His customers would agree.</p><p>Carroll is known for his passion for  ying and for all forms of transportation. He drives tractors, trucks, Harleys, boats and planes. He is also passionate about his patriotism and is able to express it through his eagle ring collection styled after well-known Americana. &ldquo;My U.S. eagle rings recognize those who love their country and are proud to show it. There are a lot of people who want to show their patriotism. This is a great way to do it. Rings can be a very personal thing.&rdquo;</p><p>Mike and Maribeth Carroll run the business together from their studios near Chicago and their home in northern Michigan.</p>",
+      "media": [
+        {
+          "url": "about-1.jpg",
+          "class": "col-md-12"
+        }
+      ],
+      "nodes": [],
+      "url": "about",
+      "adminUrl": "admin/about",
+      "parentPath": ""
+    }
+  ]
+}

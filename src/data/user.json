@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "first": "Surva",
+    "last": "Admin",
+    "email": "admin@surva.com",
+    "password": "$2y$10$KZzVEhZsm2lJzBeN6tORs.m8ZrHtGw/yVSlnLTAtkniHzWM9khtF6",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "editor",
+    "first": "Surva",
+    "last": "Editor",
+    "email": "editor@surva.com",
+    "password": "$2y$10$KZzVEhZsm2lJzBeN6tORs.m8ZrHtGw/yVSlnLTAtkniHzWM9khtF6",
+    "role": "editor"
+  }
+]

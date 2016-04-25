@@ -32,7 +32,7 @@ return [
         'Site' => [
             'modelClass' => '\\Surva\\Utilities\\File',
             'autoBackup' => true,
-            'file' => $dirRoot.'data/eaglerings.json',
+            'file' => $dirRoot.'data/site.json',
         ],
 
         'User' => [
