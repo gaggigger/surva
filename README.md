@@ -27,3 +27,20 @@ Surva comes with a `gulp` app, with the following commands.
 * `gulp serve` This compiles Surva into a `dist` folder and serves it using built-in PHP at `http://localhost:8000`
 * `gulp build` This builds Surva site into the `dist` folder
 * `gulp watch` This watches for changes, and on change triggers build and serve. Note that it doesn't do any live reloading at the moment.
+
+### Directory Structure
+```
+├── gulp/  - Gulp tasks, add more tasks as separate files as needed
+├── src/
+│   ├── api/ - Slim App that serves as an API
+│   │   ├── Surva/
+│   ├── data/
+│   │   ├── site.json - the JSON file of the site
+│   ├── public/ - publicly visible section of site
+│   │   ├── api/ - loads the API
+│   │   ├── app/ - AngularJS app
+│   │   ├── media/ - media files needed for the site
+│   │   ├── sass/ - SASS files needed by site
+│   │   ├── templates/ - Templates needed by site
+│   │   ├── index.php - index page loaded by site
+```
