@@ -1,10 +1,20 @@
 # Surva
 
-A database-less JSON file-based CMS wth an administration panel and simple token-based authentication. Built with AngularJS and Slim PHP CMS.
+Database-less JSON file-based CMS with administration panel and simple token-based authentication. Built with AngularJS, Slim PHP Framework.
 
-> **Warning**
->
->Surva is very young. It is not quite ready for production level use. I will continue to develop it, however in the mean time, feel free to fork it and play with it. ~ Ganesh Rao
+***
+
+### [View Demo &rarr;](http://ganeshnrao.com/surva/public)
+* For administration in demo scroll down to the bottom of the page and click "Meta" in the footer menu.
+* Login with username `admin` and password `helloworld`.
+* Changes made in demo will be persisted until end of your session.
+* The "Save Changes" button in the admin-panel will not save any changes in this demo.
+
+***
+
+#### Warning
+
+**Surva** is still very young. It is not ready for production level use. I will continue to develop it, however in the mean time, feel free to fork it and play with it.
 
 ### Requirements
 Make sure that you have the following commands available on your terminal.
