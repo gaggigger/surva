@@ -8,7 +8,7 @@ Run following commands
     git clone https://github.com/ganeshnrao/surva.git surva
     cd surva
     bower install
-    composer install
+    composer install --working-dir=src/api/
     npm install
 
 Once bower, composer and npm successfully install all the dependencies, you can build the sample site.
