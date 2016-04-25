@@ -12,7 +12,7 @@
 
         vm.save = save;
         vm.toggleEdit = Tvara.toggleEdit;
-        vm.email = 'ganeshnrao@me.com';
+        vm.email = 'admin@surva.com';
         vm.password = 'helloworld';
         vm.user = User;
 
