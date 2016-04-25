@@ -2,14 +2,18 @@
 
 A database-less JSON file-based CMS wth an administration panel and simple token-based authentication. Built with AngularJS and Slim PHP CMS.
 
+> **Warning**
+>
+>Surva is very young. It is not quite ready for production level use. I will continue to develop it, however in the mean time, feel free to fork it and play with it. ~ Ganesh Rao
+
 ### Requirements
-Make sure that you have the following commands available on your CLI.
-* `git` for instructions on installting Git, visit [Getting Started Installing Git] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+Make sure that you have the following commands available on your terminal.
+* `git` for instructions on installing Git, visit [Getting Started Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * `composer` To get Composer and installation instructions visit [Getting Started with Composer](https://getcomposer.org/doc/00-intro.md)
 * `bower` To install Bower visit [Getting Started with Bower](http://bower.io/#getting-started)
-* `npm` Install Node Package Manager and its dependencies from [Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
-* `php` The bundled `Gulp` app serves using built-in `PHP`, if you don't have PHP, then visit [Installation on Mac OS X](http://php.net/manual/en/install.macosx.php). Or you can directly download the PHP as a binary from [PHP 5.3 to 7.0 for OS X 10.6 to 10.11 as binary package](http://php-osx.liip.ch)
-
+* `npm` Install Node Package Manager and its dependencies from
+[Installing Node.js and updating npm](https://docs.npmjs.com/getting-started/installing-node)
+* `php` The bundled Gulp app serves using built-in `PHP`, if you don't have PHP, then visit [Installation on Mac OS X](http://php.net/manual/en/install.macosx.php). Alternately, you can directly download the PHP as a binary from [PHP 5.3 to 7.0 for OS X 10.6 to 10.11 as binary package](http://php-osx.liip.ch)
 
 ### Installation
 To get started with Surva, open up your terminal run the following commands. This will download this repo into a folder named `surva` and install all necessary dependencies.
