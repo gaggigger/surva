@@ -7,7 +7,7 @@ Database-less JSON file-based CMS with administration panel and simple token-bas
 ### [View Demo &rarr;](http://ganeshnrao.com/surva/public)
 * For administration in demo scroll down to the bottom of the page and click "Meta" in the footer menu.
 * Login with username `admin` and password `helloworld`.
-* Changes made in demo will be persisted until end of your session.
+* Changes made in demo will be persisted until end of your session or until page is reloaded.
 * The "Save Changes" button in the admin-panel will not save any changes in this demo.
 
 ***
