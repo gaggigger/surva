@@ -1,16 +1,18 @@
-<ul>
+<ol>
     <li ng-repeat="nav in tvara.site.nodes track by $index">
-        <a 
+        <a
+            ng-class="{'active' : tvara.current.linkTitle == nav.linkTitle}"
             ng-href="{{path.prefix}}{{nav.url}}"
             ng-bind-html="nav.title">
         </a>
-        <ul ng-if="nav.nodes">
+        <ol ng-if="nav.nodes">
             <li ng-repeat="subnav in nav.nodes track by $index">
                 <a
-                    ng-href="{{path.prefix}}{{subnav.url}}" 
+                    ng-class="{'active' : tvara.current == subnav}"
+                    ng-href="{{path.prefix}}{{subnav.url}}"
                     ng-bind-html="subnav.title">
                 </a>
             </li>
-        </ul>
+        </ol>
     </li>
-</ul>
+</ol>

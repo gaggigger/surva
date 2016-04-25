@@ -7,7 +7,8 @@
             'flow',
             'ngCookies',
             'ngRoute',
-            'ngSanitize'
+            'ngSanitize',
+            'ui.tinymce'
         ])
         .constant('Settings', {
             api: {
@@ -21,7 +22,7 @@
         '$routeProvider',
         '$locationProvider'
     ];
-    
+
     function appConfig($routeProvider, $locationProvider) {
         console.log('appConfig');
         $locationProvider.html5Mode(true);
@@ -33,11 +34,14 @@
         .when('/:nodes*', {
             template: '',
             requireLogin: false
+        })
+        .otherwise({
+            redirectTo: '/home'
         });
     }
 
     appRun.$inject = ['$rootScope', 'Tvara', 'Site'];
-    
+
     function appRun($rootScope, Tvara, Site) {
         Tvara.init();
         $rootScope.$on('$routeChangeStart', routeChange);
@@ -48,6 +52,14 @@
                 Tvara.adminMode();
             }
             Site.select(next.params.nodes);
+            /*
+            if($rootScope.tvara.dirty) {
+                var answer = confirm('You have unsaved changes.' +
+                    'Are you sure you want to leave this page?');
+                if (!answer) {
+                    event.preventDefault();
+                }
+            }*/
         }
     }
 

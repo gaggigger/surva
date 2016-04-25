@@ -9,7 +9,7 @@
 
     function Editor($rootScope, Site) {
         var vm = this;
-        
+
         ////////////////////////////////////////
 
         vm.save           = save;
@@ -17,6 +17,17 @@
         vm.remove         = remove;
         vm.updateUri      = updateUri;
         vm.add            = add;
+
+        vm.tinymceOptions = {
+            inline: true,
+            menubar: false,
+            // plugins: 'link image code',
+            toolbar: 'undo redo | bold italic | styleselect',
+            style_formats: [
+                { title: 'Body', block: 'p' },
+                { title: 'Uppercase Header', block: 'h3' }
+            ]
+        };
 
         function save(path) {
             Site

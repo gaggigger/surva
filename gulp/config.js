@@ -1,5 +1,6 @@
 var gulp = require('gulp');
 
+// Must have trailing slashes.
 var src = './src/';
 var dist = './dist/';
 
@@ -58,7 +59,7 @@ gulp.config = {
             module: 'app.cache',
             moduleSystem: 'IIFE',
             standalone: true,
-            templateHeader: 'angular' + 
+            templateHeader: 'angular' +
                 '.module(\'<%= module %>\'<%= standalone %>)' +
                 '.run([\'$templateCache\', function($templateCache) {',
             templateBody: '$templateCache' +
@@ -80,7 +81,7 @@ gulp.config = {
             dest: dist+''
         },
         {
-            src: src+'api/**/*', 
+            src: src+'api/**/*',
             dest: dist+'api/'
         },
         {
@@ -100,7 +101,7 @@ gulp.config = {
             dest: dist+'public/api/'
         },
         {
-            src: src+'public/media/**/*.{jpg,gif,png,pdf}',
+            src: src+'public/media/**/*.{jpg,gif,png,pdf,svg}',
             dest: dist+'public/media/'
         }
     ],

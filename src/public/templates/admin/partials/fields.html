@@ -1,33 +1,30 @@
-<div class="admin-fira">
-<p>
-    Page Title
-    <input class="input-lg" ng-model="tvara.current.title" placeholder="Title">
-</p>
+<div>
+<h1
+    ui-tinymce="vm.tinymceOptions"
+    ng-model="tvara.current.title"
+    placeholder="Title">
+</h1>
 
 <p>
     <div class="input-group">
         <span class="input-group-addon">
-            {{tvara.site.url}}{{tvara.current.parentPath}}
+            {{tvara.site.url}}/{{tvara.current.parentPath}}
         </span>
-        <input 
+        <input
             ng-model="tvara.current.uri"
             placeholder="no-spaces-lowercase-use-dashes">
     </div>
 </p>
 
-<p>
-    <textarea 
-        rows="10"
-        ng-model="tvara.current.caption"
-         placeholder="Entering a caption will be useful for SEO.">
-    </textarea>
-</p>
+<div
+    ui-tinymce="vm.tinymceOptions"
+    ng-model="tvara.current.caption"
+    placeholder="Entering a caption will be useful for SEO.">
+</div>
 
-<p>
-  <textarea 
-      rows="25"
-      ng-model="tvara.current.body"
-      placeholder="Body copy">
-  </textarea>
-</p>
+<div
+    ui-tinymce="vm.tinymceOptions"
+    ng-model="tvara.current.body"
+    placeholder="Body copy">
+</div>
 </div>

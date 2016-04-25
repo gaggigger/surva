@@ -13,7 +13,8 @@
             init: init,
             toggleEdit: toggleEdit,
             adminMode: adminMode,
-            publicMode: publicMode
+            publicMode: publicMode,
+            toggleAdmin: toggleAdmin
         };
         return service;
 
@@ -28,6 +29,7 @@
                 current: undefined,
                 edit: false,
                 admin: false,
+                dirty: false,
                 path: {
                     media: 'media/'
                 }
@@ -44,16 +46,21 @@
 
         function adminMode() {
             $rootScope.tvara.admin = true;
-            $rootScope.path.prefix = 'admin/';
+            // $rootScope.path.prefix = 'admin/';
         }
 
         function publicMode() {
             $rootScope.tvara.admin = false;
-            $rootScope.path.prefix = '';
+            // $rootScope.path.prefix = '';
+        }
+
+        function toggleAdmin() {
+            $rootScope.tvara.admin = !$rootScope.tvara.admin;
         }
 
         function toggleEdit() {
             $rootScope.tvara.edit = !$rootScope.tvara.edit;
+            $rootScope.tvara.dirty = true;
         }
 
     }

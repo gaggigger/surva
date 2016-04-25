@@ -1,26 +1,19 @@
 <div ng-repeat="(key,media) in tvara.current.media track by $index">
-
   <fieldset>
     <legend>Image</legend>
-
     <dl>
       <dt><label>File</label></dt>
       <dd><input ng-model="tvara.current.media[key].url"></dd>
     </dl>
-
     <dl>
       <dt><label>Wide</label></dt>
       <dd><input type="checkbox" ng-model="tvara.current.media[key].wide"></dd>
     </dl>
-
     <dl>
       <button ng-click="vm.remove(tvara.current.media, media)">Remove</button>
       <button ng-click="vm.upload(tvara.current.media[key])">Upload</button>
     </dl>
-
   </fieldset>
-
-
 </div>
 
 <fieldset>

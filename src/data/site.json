@@ -2,6 +2,7 @@
   "title": "Eagle Rings",
   "caption": "Finest US Eagle Rings.",
   "footer": "",
+  "url":"http://eaglerings.com",
   "contact": {
     "phones": [
       "1234567890"
@@ -112,7 +113,7 @@
           ],
           "media": [
             {
-              "url": "first-naval-gold.jpg"
+              "url": "ring/first-naval-gold.jpg"
             }
           ],
           "prices": [

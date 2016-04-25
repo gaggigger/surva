@@ -9,8 +9,11 @@ gulp.task('uglify', uglifyJs);
  * https://www.npmjs.com/package/gulp-uglify
  */
 function uglifyJs() {
+    var src = gulp.config.dist + 'public/*.js';
+    var dest = gulp.config.dist + 'public/';
+    console.log('Uglify: ', src, dest);
     return gulp
-        .src(gulp.config.dist+'*.js')
+        .src(src)
         .pipe(uglify())
-        .pipe(gulp.dest(gulp.config.dist));
+        .pipe(gulp.dest(dest));
 }

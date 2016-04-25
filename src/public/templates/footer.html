@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="footer" ng-controller="Footer as vm">
   <div class="container">
     <div class="row">
 
@@ -7,6 +7,7 @@
       <div class="col-sm-3 col-sm-offset-3">
         <h4>Navigation</h4>
         <ng-include src="'partials/menu.html'"></ng-include>
+        <a href="#" ng-click="vm.toggleAdmin()">Meta</a>
       </div>
 
       <div class="col-sm-3">
