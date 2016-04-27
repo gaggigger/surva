@@ -1,5 +1,7 @@
 # Surva
 
+[![Join the chat at https://gitter.im/ganeshnrao/surva](https://badges.gitter.im/ganeshnrao/surva.svg)](https://gitter.im/ganeshnrao/surva?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Database-less JSON file-based CMS with administration panel and simple token-based authentication. Built with AngularJS, Slim PHP Framework.
 
 ***
